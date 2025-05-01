@@ -1,0 +1,6 @@
+@Paragraphs_Viewer_HostAddress = http://localhost:5242
+
+GET {{Paragraphs_Viewer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

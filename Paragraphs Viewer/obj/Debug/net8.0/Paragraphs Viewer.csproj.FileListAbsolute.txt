@@ -1,0 +1,136 @@
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\bin\Debug\net8.0\appsettings.Development.json
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\bin\Debug\net8.0\appsettings.json
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\bin\Debug\net8.0\Paragraphs Viewer.exe
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\bin\Debug\net8.0\Paragraphs Viewer.deps.json
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\bin\Debug\net8.0\Paragraphs Viewer.runtimeconfig.json
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\bin\Debug\net8.0\Paragraphs Viewer.dll
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\bin\Debug\net8.0\Paragraphs Viewer.pdb
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\bin\Debug\net8.0\itext.barcodes.dll
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\bin\Debug\net8.0\itext.bouncy-castle-connector.dll
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\bin\Debug\net8.0\itext.forms.dll
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\bin\Debug\net8.0\itext.io.dll
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\bin\Debug\net8.0\itext.kernel.dll
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\bin\Debug\net8.0\itext.layout.dll
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\bin\Debug\net8.0\itext.pdfa.dll
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\bin\Debug\net8.0\itext.pdfua.dll
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\bin\Debug\net8.0\itext.sign.dll
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\bin\Debug\net8.0\itext.styledxmlparser.dll
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\bin\Debug\net8.0\itext.svg.dll
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\bin\Debug\net8.0\itext.commons.dll
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\obj\Debug\net8.0\Paragraphs Viewer.csproj.AssemblyReference.cache
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\obj\Debug\net8.0\Paragraphs Viewer.GeneratedMSBuildEditorConfig.editorconfig
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\obj\Debug\net8.0\Paragraphs Viewer.AssemblyInfoInputs.cache
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\obj\Debug\net8.0\Paragraphs Viewer.AssemblyInfo.cs
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\obj\Debug\net8.0\Paragraphs Viewer.csproj.CoreCompileInputs.cache
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\obj\Debug\net8.0\Paragraphs Viewer.MvcApplicationPartsAssemblyInfo.cs
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\obj\Debug\net8.0\Paragraphs Viewer.MvcApplicationPartsAssemblyInfo.cache
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\obj\Debug\net8.0\staticwebassets.build.json
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\obj\Debug\net8.0\staticwebassets.development.json
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\obj\Debug\net8.0\staticwebassets\msbuild.Paragraphs Viewer.Microsoft.AspNetCore.StaticWebAssets.props
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\obj\Debug\net8.0\staticwebassets\msbuild.build.Paragraphs Viewer.props
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Paragraphs Viewer.props
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Paragraphs Viewer.props
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\obj\Debug\net8.0\staticwebassets.pack.json
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\obj\Debug\net8.0\scopedcss\bundle\Paragraphs Viewer.styles.css
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\obj\Debug\net8.0\Paragrap.E0F4D955.Up2Date
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\obj\Debug\net8.0\Paragraphs Viewer.dll
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\obj\Debug\net8.0\refint\Paragraphs Viewer.dll
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\obj\Debug\net8.0\Paragraphs Viewer.pdb
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\obj\Debug\net8.0\Paragraphs Viewer.genruntimeconfig.cache
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\obj\Debug\net8.0\ref\Paragraphs Viewer.dll
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\bin\Debug\net8.0\Microsoft.Extensions.Localization.dll
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\bin\Debug\net8.0\Microsoft.Extensions.Localization.Abstractions.dll
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+D:\0.0.0.0_Final Project\8_ Source Code\1_Paragraphs Viewer\Paragraphs Viewer Solution\Paragraphs Viewer\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\bin\Debug\net8.0\appsettings.Development.json
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\bin\Debug\net8.0\appsettings.json
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\bin\Debug\net8.0\Paragraphs Viewer.exe
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\bin\Debug\net8.0\Paragraphs Viewer.deps.json
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\bin\Debug\net8.0\Paragraphs Viewer.runtimeconfig.json
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\bin\Debug\net8.0\Paragraphs Viewer.dll
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\bin\Debug\net8.0\Paragraphs Viewer.pdb
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\bin\Debug\net8.0\itext.barcodes.dll
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\bin\Debug\net8.0\itext.bouncy-castle-connector.dll
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\bin\Debug\net8.0\itext.forms.dll
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\bin\Debug\net8.0\itext.io.dll
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\bin\Debug\net8.0\itext.kernel.dll
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\bin\Debug\net8.0\itext.layout.dll
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\bin\Debug\net8.0\itext.pdfa.dll
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\bin\Debug\net8.0\itext.pdfua.dll
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\bin\Debug\net8.0\itext.sign.dll
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\bin\Debug\net8.0\itext.styledxmlparser.dll
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\bin\Debug\net8.0\itext.svg.dll
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\bin\Debug\net8.0\itext.commons.dll
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\bin\Debug\net8.0\Microsoft.Extensions.Localization.dll
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\bin\Debug\net8.0\Microsoft.Extensions.Localization.Abstractions.dll
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\obj\Debug\net8.0\Paragraphs Viewer.csproj.AssemblyReference.cache
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\obj\Debug\net8.0\Paragraphs Viewer.GeneratedMSBuildEditorConfig.editorconfig
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\obj\Debug\net8.0\Paragraphs Viewer.AssemblyInfoInputs.cache
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\obj\Debug\net8.0\Paragraphs Viewer.AssemblyInfo.cs
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\obj\Debug\net8.0\Paragraphs Viewer.csproj.CoreCompileInputs.cache
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\obj\Debug\net8.0\Paragraphs Viewer.MvcApplicationPartsAssemblyInfo.cs
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\obj\Debug\net8.0\Paragraphs Viewer.MvcApplicationPartsAssemblyInfo.cache
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\obj\Debug\net8.0\staticwebassets.build.json
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\obj\Debug\net8.0\staticwebassets.development.json
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\obj\Debug\net8.0\staticwebassets\msbuild.Paragraphs Viewer.Microsoft.AspNetCore.StaticWebAssets.props
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\obj\Debug\net8.0\staticwebassets\msbuild.build.Paragraphs Viewer.props
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Paragraphs Viewer.props
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Paragraphs Viewer.props
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\obj\Debug\net8.0\staticwebassets.pack.json
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\obj\Debug\net8.0\scopedcss\bundle\Paragraphs Viewer.styles.css
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\obj\Debug\net8.0\Paragrap.E0F4D955.Up2Date
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\obj\Debug\net8.0\Paragraphs Viewer.dll
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\obj\Debug\net8.0\refint\Paragraphs Viewer.dll
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\obj\Debug\net8.0\Paragraphs Viewer.pdb
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\obj\Debug\net8.0\Paragraphs Viewer.genruntimeconfig.cache
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\obj\Debug\net8.0\ref\Paragraphs Viewer.dll
