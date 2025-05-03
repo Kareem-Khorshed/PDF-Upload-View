@@ -134,3 +134,4 @@ D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main
 D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\obj\Debug\net8.0\Paragraphs Viewer.pdb
 D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\obj\Debug\net8.0\Paragraphs Viewer.genruntimeconfig.cache
 D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\obj\Debug\net8.0\ref\Paragraphs Viewer.dll
+D:\0.0.0.0_Final Project\8_ Source Code\Graduation_Project_2\Paragraph-APIs-main\Paragraphs Viewer\obj\Debug\net8.0\Paragraphs Viewer.sourcelink.json

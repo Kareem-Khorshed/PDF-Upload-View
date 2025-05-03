@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Paragraphs Viewer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c91438f0184603d466dcb7ee0a3ccf538920bcb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Paragraphs Viewer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Paragraphs Viewer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
